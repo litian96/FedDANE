@@ -4,7 +4,7 @@ This repository contains the code and experiments for the paper:
 
 > [FedDANE: A Federated Newton-Type Method](https://arxiv.org/abs/2001.01920)
 > 
-> Asilomar Conference on Signals, Systems, and Computers 2019
+> Asilomar Conference on Signals, Systems, and Computers 2019 (Invited Paper)
 
 FedDANE is an optimization method that we adapt from DANE, a method for classical distributed optimization, to handle the practical constraints of federated learning. We provide convergence guarantees for this method when learning over both convex and non-convex functions. Despite encouraging theoretical results, we find that the method has underwhelming performance empirically. We identify low device participation and statistical device heterogeneity as two underlying causes of this underwhelming performance. In the paper, we also suggest several directions of future work.
 
